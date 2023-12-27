@@ -23,7 +23,7 @@ export default function Home() {
       </div> */}
       
       <code className={`font-mono font-bold mb-3 text-8xl font-semibold`}>
-            f'(ai){' '}
+            f&prime;(ai){' '}
           </code>
         
       {/* <code className={`font-mono font-bold mb-3 text-2xl font-semibold`}>
